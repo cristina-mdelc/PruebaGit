@@ -1,1 +1,2 @@
-Hola, ¿qué hace?
+ola k ase
+bug corregido.
