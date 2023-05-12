@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hola, ¿qué hace?
 estudiando git
+=======
+ola k ase
+bug corregido.
+terminado.
+>>>>>>> bug53
